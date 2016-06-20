@@ -1,0 +1,3 @@
+the test.txt
+add some feacher texts
+add more feature
